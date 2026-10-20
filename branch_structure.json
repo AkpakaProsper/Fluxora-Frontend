@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "design/create-stream-wizard-advanced-toggle",
+    "design/dyslexia-friendly-font-toggle",
+    "design/low-vision-400-percent-zoom-reflow",
+    "feat/issue-560",
+    "feat/issue-562",
+    "fix/issue-1947-cover-apiversion-with-unit-tests",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "design/create-stream-wizard-advanced-toggle": "main",
+    "design/dyslexia-friendly-font-toggle": "main",
+    "design/low-vision-400-percent-zoom-reflow": "main",
+    "feat/issue-560": "main",
+    "feat/issue-562": "main",
+    "fix/issue-1947-cover-apiversion-with-unit-tests": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "design/create-stream-wizard-advanced-toggle",
+    "design/dyslexia-friendly-font-toggle",
+    "design/low-vision-400-percent-zoom-reflow",
+    "feat/issue-560",
+    "feat/issue-562",
+    "fix/issue-1947-cover-apiversion-with-unit-tests",
+    "origin"
+  ]
+}
